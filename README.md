@@ -1,4 +1,4 @@
-# CPSC 349 Project 2 - Remake
+CPSC 349 - Web Front End Enginnering
 
 ## Group 21 Members
 
